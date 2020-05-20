@@ -1,5 +1,0 @@
-Presentación en Power Point que detalla los elementos de los que consta el proyecto, en carpetas separadas por participantes, por ejemplo: 
-Entradas y acondicionamiento; 
-Procesamiento de la información proporcionada por el usuario; 
-Generación de las señales de salidas; Comunicación entre el prototipo y otros elementos; 
-Exposición de información e interacción con usuarios.
